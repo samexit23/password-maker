@@ -1,0 +1,9 @@
+step 1 put the downloaded content in its own folder
+step 2 put the length of the password in (no limits)
+step 3 put the number of passwords in (no limits)
+step 4 wait
+step 5 decide if you want to save a password in particular
+step 5.5 if yes put the number assigned to the password in
+step 5.6 put the name of the file in (must have .txt extension at the end)(must be in folder specified at step 1)
+step 6 decide if you want to make more passwords
+step 7 enjoy !
